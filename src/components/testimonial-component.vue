@@ -118,6 +118,7 @@
     visibility: hidden;
     animation-fill-mode: forwards;
   }
+  
   .cont1,.cont2{
     animation: slide 2s ease;
     transition: all 2s ease;
