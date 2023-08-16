@@ -91,7 +91,9 @@
     overflow-y: hidden;
     overflow-x: hidden;
   }
+  
   .tanya{
+    /* variables to make effect */
     --rotateX:6deg;
     --rotateY:-21deg;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -102,6 +104,7 @@
     transition: all 1s ease;
 
   }
+  
   .btn-container{
     box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
     animation: slide 2s ease;
