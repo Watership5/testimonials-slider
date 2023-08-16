@@ -104,7 +104,7 @@
     transition: all 1s ease;
 
   }
-  
+
   .btn-container{
     box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
     animation: slide 2s ease;
@@ -118,11 +118,6 @@
     visibility: hidden;
     animation-fill-mode: forwards;
   }
-
-  /* :root{
-    --rotateY: 10deg;
-    --rotateX: 10deg
-  } */
   .cont1,.cont2{
     animation: slide 2s ease;
     transition: all 2s ease;
